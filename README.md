@@ -1,4 +1,4 @@
-Design Cheat Sheet
+## DESIGN CHEAT SHEET
 
 Welcome to my design cheat sheet! 🎨 Here you'll find a collection of key design contents to help create visually appealing and user-friendly designs.
 
