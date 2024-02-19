@@ -1,8 +1,8 @@
 Design Cheat Sheet
 
-Welcome to my design cheat sheet! 🎨 Here you'll find a collection of key design principles, concepts, and tools to help you create visually appealing and user-friendly designs.
+Welcome to my design cheat sheet! 🎨 Here you'll find a collection of key design contents to help create visually appealing and user-friendly designs.
 
-Happy designing! 🖌️
+Happy Designing! 🖌️
 
 ## Author
 
